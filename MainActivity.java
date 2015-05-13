@@ -1,3 +1,10 @@
+/////////////////////////////////////////////
+//////  1. Ricky Julianjatsono  39036  //////
+//////  2. Thoriq Satriya       39305  //////
+//////  3. M. Syamsul Muin      39330  //////
+/////////////////////////////////////////////
+
+
 package id.hearme.calculator;
 
 import android.support.v7.app.ActionBarActivity;
